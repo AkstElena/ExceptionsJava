@@ -1,11 +1,11 @@
-package Lecture.Lecture1;
+package Lecture;
 
 import java.io.File;
 
 /**
  * Application
  */
-public class Application {
+public class Lecture1 {
 
   public static void main(String[] args) {
     // System.out.println(getFileSize(new File("123")));
